@@ -1,3 +1,4 @@
+- #  About Me/Sobre Mim
 - 👋 Hi, I’m João Paulo, but you can just call me John 😁
 - 👀 I’m interested in robotics and programming :sunglasses:
 - 🌱 I’m currently learning industrial automation and progamming basics 🕹️
